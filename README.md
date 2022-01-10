@@ -10,21 +10,21 @@
   
 [1003](https://github.com/devhkyu/BOJ/blob/main/problem/1003.cpp)
 [1011](https://github.com/devhkyu/BOJ/blob/main/problem/1011.cpp)
-1012
-1026
-1037
-1059
-1107
+[1012](https://github.com/devhkyu/BOJ/blob/main/problem/1012.cpp)
+[1026](https://github.com/devhkyu/BOJ/blob/main/problem/1026.cpp)
+[1037](https://github.com/devhkyu/BOJ/blob/main/problem/1037.cpp)
+[1059](https://github.com/devhkyu/BOJ/blob/main/problem/1059.cpp)
+[1107](https://github.com/devhkyu/BOJ/blob/main/problem/1107.cpp)
 [1158](https://github.com/devhkyu/BOJ/blob/main/problem/1158.cpp)
-1181
-1235
-1251
-1292
-1312
-1417
-1654
-1789
-2751
+[1181](https://github.com/devhkyu/BOJ/blob/main/problem/1181.cpp)
+[1235](https://github.com/devhkyu/BOJ/blob/main/problem/1235.cpp)
+[1251](https://github.com/devhkyu/BOJ/blob/main/problem/1251.cpp)
+[1292](https://github.com/devhkyu/BOJ/blob/main/problem/1292.cpp)
+[1312](https://github.com/devhkyu/BOJ/blob/main/problem/1312.cpp)
+[1417](https://github.com/devhkyu/BOJ/blob/main/problem/1417.cpp)
+[1654](https://github.com/devhkyu/BOJ/blob/main/problem/1654.cpp)
+[1789](https://github.com/devhkyu/BOJ/blob/main/problem/1789.cpp)
+[2751](https://github.com/devhkyu/BOJ/blob/main/problem/2751.cpp)
 
 <hr>
 
@@ -34,5 +34,6 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <cstdio>
 #include <cmath>
 ```
