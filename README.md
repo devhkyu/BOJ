@@ -20,6 +20,7 @@
 [1113](https://github.com/devhkyu/BOJ/blob/main/problem/1113.cpp)
 [1158](https://github.com/devhkyu/BOJ/blob/main/problem/1158.cpp)
 [1181](https://github.com/devhkyu/BOJ/blob/main/problem/1181.cpp)
+[1205](https://github.com/devhkyu/BOJ/blob/main/problem/1205.cpp)
 [1235](https://github.com/devhkyu/BOJ/blob/main/problem/1235.cpp)
 [1251](https://github.com/devhkyu/BOJ/blob/main/problem/1251.cpp)
 [1292](https://github.com/devhkyu/BOJ/blob/main/problem/1292.cpp)
