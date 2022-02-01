@@ -39,6 +39,7 @@
 [1913](https://github.com/devhkyu/BOJ/blob/main/problem/1913.cpp)
 [1935](https://github.com/devhkyu/BOJ/blob/main/problem/1935.cpp)
 [1948](https://github.com/devhkyu/BOJ/blob/main/problem/1948.cpp)
+[2018](https://github.com/devhkyu/BOJ/blob/main/problem/2018.cpp)
 [2108](https://github.com/devhkyu/BOJ/blob/main/problem/2108.cpp)
 [2729](https://github.com/devhkyu/BOJ/blob/main/problem/2729.cpp)
 [2751](https://github.com/devhkyu/BOJ/blob/main/problem/2751.cpp)
