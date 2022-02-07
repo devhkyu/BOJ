@@ -53,6 +53,7 @@
 [2941](https://github.com/devhkyu/BOJ/blob/main/problem/2941.cpp)
 [3020](https://github.com/devhkyu/BOJ/blob/main/problem/3020.cpp)
 [4659](https://github.com/devhkyu/BOJ/blob/main/problem/4659.cpp)
+[4673](https://github.com/devhkyu/BOJ/blob/main/problem/4673.cpp)
 [4796](https://github.com/devhkyu/BOJ/blob/main/problem/4796.cpp)
 
 <hr>
