@@ -47,6 +47,7 @@
 [2018](https://github.com/devhkyu/BOJ/blob/main/problem/2018.cpp)
 [2108](https://github.com/devhkyu/BOJ/blob/main/problem/2108.cpp)
 [2193](https://github.com/devhkyu/BOJ/blob/main/problem/2193.cpp)
+[2581](https://github.com/devhkyu/BOJ/blob/main/problem/2581.cpp)
 [2729](https://github.com/devhkyu/BOJ/blob/main/problem/2729.cpp)
 [2751](https://github.com/devhkyu/BOJ/blob/main/problem/2751.cpp)
 [2805](https://github.com/devhkyu/BOJ/blob/main/problem/2805.cpp)
