@@ -9,6 +9,7 @@
 ### 💡 해결한 문제
   
 [1003](https://github.com/devhkyu/BOJ/blob/main/problem/1003.cpp)
+[1010](https://github.com/devhkyu/BOJ/blob/main/problem/1010.cpp)
 [1011](https://github.com/devhkyu/BOJ/blob/main/problem/1011.cpp)
 [1012](https://github.com/devhkyu/BOJ/blob/main/problem/1012.cpp)
 [1018](https://github.com/devhkyu/BOJ/blob/main/problem/1018.cpp)
