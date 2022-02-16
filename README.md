@@ -48,6 +48,7 @@
 [1916](https://github.com/devhkyu/BOJ/blob/main/problem/1916.cpp)
 [1935](https://github.com/devhkyu/BOJ/blob/main/problem/1935.cpp)
 [1948](https://github.com/devhkyu/BOJ/blob/main/problem/1948.cpp)
+[1969](https://github.com/devhkyu/BOJ/blob/main/problem/1969.cpp)
 [1978](https://github.com/devhkyu/BOJ/blob/main/problem/1978.cpp)
 [2015](https://github.com/devhkyu/BOJ/blob/main/problem/2015.cpp)
 [2018](https://github.com/devhkyu/BOJ/blob/main/problem/2018.cpp)
