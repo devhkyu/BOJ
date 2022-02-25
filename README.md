@@ -61,6 +61,7 @@
 [2293](https://github.com/devhkyu/BOJ/blob/main/problem/2293.cpp)
 [2578](https://github.com/devhkyu/BOJ/blob/main/problem/2578.cpp)
 [2581](https://github.com/devhkyu/BOJ/blob/main/problem/2581.cpp)
+[2668](https://github.com/devhkyu/BOJ/blob/main/problem/2668.cpp)
 [2729](https://github.com/devhkyu/BOJ/blob/main/problem/2729.cpp)
 [2751](https://github.com/devhkyu/BOJ/blob/main/problem/2751.cpp)
 [2805](https://github.com/devhkyu/BOJ/blob/main/problem/2805.cpp)
