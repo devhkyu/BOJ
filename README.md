@@ -78,22 +78,3 @@
 [13015](https://github.com/devhkyu/BOJ/blob/main/problem/13015.cpp)
 
 <hr>
-
-### 📖 주요 라이브러리
-
-```
-// C
-#include<stdio.h>
-#include<stdlib.h>
-#include<math.h>
-#include<string.h>
-
-// C++
-#include<iostream>
-#include<algorithm>
-#include<vector>
-#include<cstdio>
-#include<queue>
-#include<stack>
-#include<cmath>
-```
