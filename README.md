@@ -2,12 +2,15 @@
 
 ### Baekjoon Online Judge 문제를 직접 해결하고 작성한 솔루션 코드입니다.
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> [![BOJ Site](https://img.shields.io/badge/-Baekjoon-red)](https://www.acmicpc.net/) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fabric93)](https://solved.ac/fabric93)
+[![BOJ Site](https://img.shields.io/badge/-Baekjoon-red)](https://www.acmicpc.net/) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fabric93)](https://solved.ac/fabric93)
 
 <hr>
 
 ### 💡 해결한 문제
-  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 [1003](https://github.com/devhkyu/BOJ/blob/main/problem/1003.cpp)
 [1010](https://github.com/devhkyu/BOJ/blob/main/problem/1010.cpp)
 [1011](https://github.com/devhkyu/BOJ/blob/main/problem/1011.cpp)
