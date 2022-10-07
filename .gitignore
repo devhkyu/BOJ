@@ -3,4 +3,5 @@
 CMakeLists.txt
 cmake-build-debug
 *.DS_Store
-cscope.out
+*.out
+*.o
